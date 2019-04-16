@@ -3,13 +3,13 @@ Arrays :
 
 
 Subarray with given sum ---- Gfg
-Kadane’s Algorithm
-Missing number in array
+Kadane’s Algorithm --- GFG
+Missing number in array -- too simple. See solution 4 in leetcode solution
 Sort an array of 0s, 1s and 2s -- Repo (Dutch flag)
 Equilibrium point -- Leetcode array pivot
-Maximum sum increasing subsequence
-Leaders in an array
-Minimum Platforms
+Maximum sum increasing subsequence --- See google doc
+Leaders in an array -- too easy, gfg
+Minimum Platforms -- GFG, repo (custom class sorting/comparator)
 Maximum of all subarrays of size k
 Reverse array in groups
 K’th smallest element
