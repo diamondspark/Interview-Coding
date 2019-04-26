@@ -15,7 +15,7 @@ Reverse array in groups
 K’th smallest element
 Trapping Rain Water
 Pythagorean Triplet
-Chocolate Distribution Problem
+Chocolate Distribution Problem — too simple, GFG. Also see Distribute Candies on leetcode
 Stock buy and sell
 Element with left side smaller and right side greater
 Convert array into Zig-Zag fashion
@@ -124,7 +124,7 @@ Longest consecutive subsequence
 Array Subset of another array
 Find all pairs with a given sum
 Find first repeated character
-Zero Sum Subarrays
+Zero Sum Subarrays —- Leetcode (http://bit.ly/2WDon8q)
 Minimum indexed character
 Check if two arrays are equal or not
 Uncommon characters
