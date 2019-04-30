@@ -26,6 +26,7 @@ Spirally traversing a matrix
 Sorting Elements of an Array by Frequency
 Largest Number formed from an Array
 Largest subarray of 0’s and 1’s
+Distibute candies —leetcode — min(len(set(candies)),len(candies)/2)
 Solved the above? Go for some more Questions
 
 String :
@@ -124,12 +125,12 @@ Longest consecutive subsequence
 Array Subset of another array
 Find all pairs with a given sum
 Find first repeated character
-Zero Sum Subarrays —- Leetcode (http://bit.ly/2WDon8q)
+Zero Sum Subarrays —- Leetcode (http://bit.ly/2WDon8q)- Rattofy the logic.
 Minimum indexed character
 Check if two arrays are equal or not
 Uncommon characters
 Smallest window in a string containing all the characters of another string
-First element to occur k times
+First element to occur k times —- O(n) hashmap, simple
 Check if frequencies can be equal
 Graph :
 
